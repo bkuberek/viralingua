@@ -1,6 +1,6 @@
 # Viralingua
 
-A free, local-first language-learning app with an AI tutor, built for your phone.
+A free, local-first, cross-platform language-learning app with an AI tutor. Phone first, with a desktop version to follow.
 
 You choose what to learn. The tutor designs a program around your goals and your level, or around content you bring. At the end of each stage it grades you and plans the next one.
 
